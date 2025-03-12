@@ -44,7 +44,7 @@
 
 
 
-### 跟FreeRtos有什么区别？
+### 跟FreeRTOS有什么区别？
 
 
 
